@@ -2,6 +2,7 @@ Supported NXP platforms:
   - i.MX 8M Plus EVK
 
 #Building Yocto image:
+
 Prerequisites:
 - Installed Ubuntu 20.04 OS or higher on Host System.
 - Installed essential Yocto Project host packages:
